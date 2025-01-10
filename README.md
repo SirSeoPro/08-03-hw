@@ -105,13 +105,33 @@ git config --global user.email sir.seopro@gmail.com
 3. Напишите правила в этом файле, чтобы игнорировать любые файлы .pyc, а также все файлы в директории cache.
 4. Сделайте коммит и пуш.
 
+<details>
+
+![image5](https://github.com/SirSeoPro/08-03-hw/blob/main/screenshoots/Screenshot_20250110_174638.png)
+
+</details>
 
 
+[Ссылка](https://github.com/SirSeoPro/git-08-01/blob/main/.gitignore)
 ---
 
 ### Задание 3
 
 1. Создайте новую ветку dev и переключитесь на неё.
+
+<details>
+
+```
+ivon@ivon-VBox:~/projects/git_1001_2/git-08-01$ git checkout -b dev
+Переключились на новую ветку «dev»
+ivon@ivon-VBox:~/projects/git_1001_2/git-08-01$ git branch
+* dev
+  main
+
+```
+
+</details>
+
 2. Создайте в ветке dev файл test.sh с произвольным содержимым.
 3. Сделайте несколько коммитов и пушей в ветку dev, имитируя активную работу над файлом в процессе разработки.
 4. Переключитесь на основную ветку.
@@ -119,3 +139,5 @@ git config --global user.email sir.seopro@gmail.com
 6. Сделайте мердж dev ветки в основную с помощью git merge dev. Напишите осмысленное сообщение в появившееся окно комита.
 7. Сделайте пуш в основной ветке.
 8. Не удаляйте ветку dev.
+
+
