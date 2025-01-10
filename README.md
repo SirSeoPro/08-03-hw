@@ -29,7 +29,7 @@
 
 <details>
 
-![01](https://disk.yandex.ru/i/mAw_rLSXQ2Y0tQ)
+![01](https://github.com/SirSeoPro/08-03-hw/blob/main/screenshoots/Screenshot_20250110_160426.png)
 
 </details>
 
