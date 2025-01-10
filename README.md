@@ -29,7 +29,7 @@
 
 <details>
 
-![image](https://github.com/SirSeoPro/08-03-hw/blob/main/screenshoots/Screenshot_20250110_160426.png)
+![image1](https://github.com/SirSeoPro/08-03-hw/blob/main/screenshoots/Screenshot_20250110_160426.png)
 
 </details>
 
@@ -37,18 +37,35 @@
 
 <details>
 
-![image](https://github.com/SirSeoPro/08-03-hw/blob/main/screenshoots/Screenshot_20250110_160426.png)
+![image2](https://github.com/SirSeoPro/08-03-hw/blob/main/screenshoots/Screenshot_20250110_171856.png)
 
 </details>
 
 3. Склонируйте репозиторий, используя https протокол git clone ....
+
+<details>
+
+![image3](https://github.com/SirSeoPro/08-03-hw/blob/main/screenshoots/Screenshot_20250110_172245.png)
+
+</details>
+
+
 4. Перейдите в каталог с клоном репозитория.
+
+<details>
+
+![image3](https://github.com/SirSeoPro/08-03-hw/blob/main/screenshoots/Screenshot_20250110_172404.png)
+
+</details>
+
 5. Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
 
 <details>
 
+```
 git config --global ivon
 git config --global user.email sir.seopro@gmail.com
+```
 
 </details>
 
@@ -59,12 +76,24 @@ git config --global user.email sir.seopro@gmail.com
 10. Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой git add README.md.
 11. Ещё раз выполните команды git diff и git diff --staged.
 12. Теперь можно сделать коммит git commit -m 'First commit'.
+
+<details>
+
+![image4](https://github.com/SirSeoPro/08-03-hw/blob/main/screenshoots/Screenshot_20250110_172823.png)
+
+</details>
+
 13. Сделайте git push origin master.
+
+<details>
+
+![image4](https://github.com/SirSeoPro/08-03-hw/blob/main/screenshoots/Screenshot_20250110_173118.png)
+
+</details>
+
 14. В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+[Ссылка](https://github.com/SirSeoPro/git-08-01)
 
 
 ---
