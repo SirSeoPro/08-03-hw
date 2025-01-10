@@ -29,7 +29,7 @@
 
 <details>
 
-![01](https://github.com/Ivashka80/Netology/assets/121082757/8b775232-df62-4189-8658-cd11bc208522)
+![01](https://disk.yandex.ru/i/mAw_rLSXQ2Y0tQ)
 
 </details>
 
