@@ -111,7 +111,6 @@ git config --global user.email sir.seopro@gmail.com
 
 </details>
 
-
 [Ссылка](https://github.com/SirSeoPro/git-08-01/blob/main/.gitignore)
 ---
 
@@ -136,8 +135,23 @@ ivon@ivon-VBox:~/projects/git_1001_2/git-08-01$ git branch
 3. Сделайте несколько коммитов и пушей в ветку dev, имитируя активную работу над файлом в процессе разработки.
 4. Переключитесь на основную ветку.
 5. Добавьте файл main.sh в основной ветке с произвольным содержимым, сделайте комит и пуш . Так имитируется продолжение общекомандной разработки в основной ветке во время разработки отдельного функционала в dev ветке.
+
+<details>
+
+![image6](https://github.com/SirSeoPro/08-03-hw/blob/main/screenshoots/Screenshot_20250110_175923.png)
+
+</details>
+
 6. Сделайте мердж dev ветки в основную с помощью git merge dev. Напишите осмысленное сообщение в появившееся окно комита.
+
+<details>
+
+![image7](https://github.com/SirSeoPro/08-03-hw/blob/main/screenshoots/Screenshot_20250110_180509.png)
+
+</details>
+
 7. Сделайте пуш в основной ветке.
 8. Не удаляйте ветку dev.
 
+[Ссылка](https://github.com/SirSeoPro/git-08-01/network)
 
